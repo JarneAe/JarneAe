@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JarneAe
 - 👀 I’m interested in Python and Game Development
 - 🌱 I’m currently learning C++ and Full-stack development
-- 📫 How to reach me: Jarne#300 @discord or mail me at jarnea408@gmail.com
+- 📫 How to reach me: Jarne#3000 @discord or mail me at jarnea408@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JarneAe&layout=compact)](https://github.com/JarneAe/github-readme-stats)
 
