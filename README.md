@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JarneAe
-- 👀 I’m interested in Python and Game Development
-- 🌱 I’m currently learning Java and Web dev
+- 👀 I’m interested in Python/Java/C
+- 🌱 Currently learning C and Java
 - 📫 How to reach me: Jarne#3000 @discord or mail me at jarnea408@gmail.com7
 
 
