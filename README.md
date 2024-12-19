@@ -7,5 +7,3 @@
 🚀 My interests span data engineering, machine learning, and leveraging automation to solve real-world problems. Whether it's architecting efficient data systems or experimenting with AI-driven solutions, I’m always eager to learn and push the boundaries of what's possible.
 
 Thanks for stopping by! Feel free to explore my projects, and don’t hesitate to connect if you want to collaborate or chat about all things data.
-
-![]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
