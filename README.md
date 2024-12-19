@@ -8,4 +8,4 @@
 
 Thanks for stopping by! Feel free to explore my projects, and don’t hesitate to connect if you want to collaborate or chat about all things data.
 
-![image]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
+![]({https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue})
