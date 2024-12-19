@@ -1,6 +1,9 @@
-Hi! My name is Jarne Aerts, I am a third year student at KdG with my major being Data & AI, in my everyday life I love keeping up with all the new tech development and developing my own solutions. 
+# 👋 Hi there, I'm Jarne Aerts
 
+🎓 I’m a third-year student at KdG, majoring in Data & AI. My work revolves around transforming raw data into actionable insights and creating innovative solutions that make data both accessible and impactful.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) 
-  
+💡 I’m passionate about the entire data journey—from engineering robust pipelines to building machine learning models that bring data to life. I thrive on challenges like optimizing workflows, designing scalable systems, and uncovering the stories hidden within data.
 
+🚀 My interests span data engineering, machine learning, and leveraging automation to solve real-world problems. Whether it's architecting efficient data systems or experimenting with AI-driven solutions, I’m always eager to learn and push the boundaries of what's possible.
+
+Thanks for stopping by! Feel free to explore my projects, and don’t hesitate to connect if you want to collaborate or chat about all things data.
