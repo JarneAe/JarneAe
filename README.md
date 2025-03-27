@@ -6,4 +6,6 @@
 
 🚀 My interests span data engineering, machine learning, and leveraging automation to solve real-world problems. Whether it's architecting efficient data systems or experimenting with AI-driven solutions, I’m always eager to learn and push the boundaries of what's possible.
 
+📌In the pins you can find some of the projects i've worked on before! These are mainly Machine learning related.
+
 Thanks for stopping by! Feel free to explore my projects, and don’t hesitate to connect if you want to collaborate or chat about all things data.
